@@ -9,4 +9,4 @@ I'm interested in data/info science, tech ethics, software development, website 
 I have experience with Python, Java, SQL, Javascript, HTML & CSS, R, C, PHP, Assembly, ...
 
 Contact me at [alyssajcrawford1@gmail.com](mailto:alyssajcrawford1@gmail.com) or follow me on Twitter at [@ALY55AJC](https://twitter.com/ALY55AJC).
-Check out my GitHub Pages website [here](/../alyssajcrawford1.github.io) or at [alyssajcrawford.gay](https://alyssajcrawford.gay)!
+Check out my GitHub Pages website [here](https://github.com/alyssajcrawford1/alyssajcrawford1.github.io) or at [alyssajcrawford.gay](https://alyssajcrawford.gay)!
